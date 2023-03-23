@@ -1,0 +1,11 @@
+The new account ID :  0.0.3906831
+
+Multiple account balance 20 ℏ HBar, other account balance 530 ℏ
+
+Transaction transfer failed due to signature threshold not reached
+
+Multiple account balance 20 ℏ HBar, other account balance 530 ℏ
+
+Transaction status:  SUCCESS
+
+Multiple account balance 10 ℏ HBar, other account balance 540 ℏ

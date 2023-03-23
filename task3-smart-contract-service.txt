@@ -1,0 +1,5 @@
+CONTRACT_ID: 0.0.3905320
+
+The result of function1 is 12
+
+The result of function2 is 14

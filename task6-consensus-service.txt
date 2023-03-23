@@ -1,0 +1,9 @@
+The newly created topic ID is: 0.0.3907005
+
+Message receipt:
+
+{"status":{"_code":22},"accountId":null,"fileId":null,"contractId":null,"topicId":null,"tokenId":null,"scheduleId":null,"exchangeRate":{"hbars":30000,"cents":184198,"expirationTime":"2023-03-23T12:00:00.000Z","exchangeRateInCents":6.1399333333333335},"topicSequenceNumber":{"low":1,"high":0,"unsigned":false},"topicRunningHash":{"0":224,"1":9,"2":28,"3":79,"4":98,"5":198,"6":44,"7":57,"8":90,"9":172,"10":177,"11":135,"12":48,"13":167,"14":16,"15":50,"16":63,"17":60,"18":182,"19":231,"20":21,"21":113,"22":131,"23":82,"24":99,"25":1,"26":55,"27":183,"28":160,"29":253,"30":51,"31":125,"32":55,"33":17,"34":47,"35":180,"36":166,"37":73,"38":141,"39":80,"40":28,"41":254,"42":89,"43":194,"44":142,"45":168,"46":85,"47":89},"totalSupply":{"low":0,"high":0,"unsigned":false},"scheduledTransactionId":null,"serials":[],"duplicates":[],"children":[]}
+
+The message transaction status is: SUCCESS
+
+Link to topic: https://hashscan.io/testnet/topic/0.0.3907005
